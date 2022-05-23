@@ -1,0 +1,453 @@
+Property_type,Price,address,area_sq_ft,construction_status,listing_details,Page,bathroom_details,property_status,property_type,BHK,location,city,price_in_lakh
+5 BHK Apartment, 62 L,"Hastsal, Delhi",2000.0,Ready to move,5 - 6 years old3 BathroomsResale ,0,3,Resale, Apartment,5,"Hastsal,",Delhi,62.0
+2 BHK Independent Floor, 35 L,"Mahipalpur, Delhi",765.0,Ready to move,1 BathroomsResale ,0,1,Resale, Independent Floor,2,"Mahipalpur,",Delhi,35.0
+3 BHK Independent Floor, 45 L,"Pitampura, Delhi",600.0,Ready to move,1 BathroomsResale ,0,1,Resale, Independent Floor,3,"Pitampura,",Delhi,45.0
+3 BHK Apartment, 42 L,"Jamia Nagar, Delhi",850.0,Ready to move,2 BathroomsResale ,0,2,Resale, Apartment,3,"Jamia Nagar,",Delhi,42.0
+3 BHK Apartment, 60 L,"Dilshad Garden, Delhi",1000.0,Ready to move,2 BathroomsResale NorthEast facing,0,2,Resale, Apartment,3,"Dilshad Garden,",Delhi,60.0
+4 BHK Independent House, 2.5 Cr,"Bindapur, Delhi",1800.0,Ready to move,2 BathroomsResale West facing,0,2,Resale, Independent House,4,"Bindapur,",Delhi,250.0
+3 BHK Apartment, 32 L,"Aya Nagar, Delhi",1000.0,Ready to move,4 - 5 years old2 BathroomsResale ,0,2,Resale, Apartment,3,"Aya Nagar,",Delhi,32.0
+2 BHK Independent Floor, 22 L,"Tughlakabad, Delhi",445.0,Ready to move,1 BathroomsResale ,0,1,Resale, Independent Floor,2,"Tughlakabad,",Delhi,22.0
+2 BHK Apartment, 1.1 Cr,"Patparganj, Delhi",975.0,Ready to move,2 BathroomsResale ,0,2,Resale, Apartment,2,"Patparganj,",Delhi,110.00000000000001
+2 BHK Independent Floor, 40 L,"Sector 22 Rohini, Delhi",560.0,Ready to move,4 - 5 years old2 BathroomsResale ,0,2,Resale, Independent Floor,2,"Sector 22 Rohini,",Delhi,40.0
+2 BHK Independent Floor, 32 L,"Chattarpur, Delhi",850.0,Ready to move,2 BathroomsResale ,0,2,Resale, Independent Floor,2,"Chattarpur,",Delhi,32.0
+4 BHK Independent Floor, 5.75 Cr,"Sarvpriya Vihar, Delhi",2800.0,Ready to move,4 BathroomsResale ,0,4,Resale, Independent Floor,4,"Sarvpriya Vihar,",Delhi,575.0
+2 BHK Apartment, 1.5 Cr,"Kalkaji, Delhi",1150.0,Ready to move,2 BathroomsResale ,0,2,Resale, Apartment,2,"Kalkaji,",Delhi,150.0
+2 BHK Independent Floor, 65 L,"laxmi nagar, Delhi",758.0,Ready to move,5 - 6 years old2 BathroomsResale ,0,2,Resale, Independent Floor,2,"laxmi nagar,",Delhi,65.0
+3 BHK Independent Floor, 1.5 Cr,"Rajinder Nagar, Delhi",990.0,Ready to move,2 BathroomsResale ,0,2,Resale, Independent Floor,3,"Rajinder Nagar,",Delhi,150.0
+4 BHK Independent Floor, 32 L,"Sector 13 Rohini, Delhi",1969.0,Ready to move,21 - 22 years old3 BathroomsResale ,0,3,Resale, Independent Floor,4,"Sector 13 Rohini,",Delhi,32.0
+5 BHK Apartment, 62 L,"Hastsal, Delhi",2000.0,Ready to move,5 - 6 years old3 BathroomsResale ,1,3,Resale, Apartment,5,"Hastsal,",Delhi,62.0
+2 BHK Independent Floor, 35 L,"Mahipalpur, Delhi",765.0,Ready to move,1 BathroomsResale ,1,1,Resale, Independent Floor,2,"Mahipalpur,",Delhi,35.0
+3 BHK Independent Floor, 45 L,"Pitampura, Delhi",600.0,Ready to move,1 BathroomsResale ,1,1,Resale, Independent Floor,3,"Pitampura,",Delhi,45.0
+3 BHK Apartment, 42 L,"Jamia Nagar, Delhi",850.0,Ready to move,2 BathroomsResale ,1,2,Resale, Apartment,3,"Jamia Nagar,",Delhi,42.0
+3 BHK Apartment, 60 L,"Dilshad Garden, Delhi",1000.0,Ready to move,2 BathroomsResale NorthEast facing,1,2,Resale, Apartment,3,"Dilshad Garden,",Delhi,60.0
+4 BHK Independent House, 2.5 Cr,"Bindapur, Delhi",1800.0,Ready to move,2 BathroomsResale West facing,1,2,Resale, Independent House,4,"Bindapur,",Delhi,250.0
+3 BHK Apartment, 32 L,"Aya Nagar, Delhi",1000.0,Ready to move,4 - 5 years old2 BathroomsResale ,1,2,Resale, Apartment,3,"Aya Nagar,",Delhi,32.0
+2 BHK Independent Floor, 22 L,"Tughlakabad, Delhi",445.0,Ready to move,1 BathroomsResale ,1,1,Resale, Independent Floor,2,"Tughlakabad,",Delhi,22.0
+2 BHK Apartment, 1.1 Cr,"Patparganj, Delhi",975.0,Ready to move,2 BathroomsResale ,1,2,Resale, Apartment,2,"Patparganj,",Delhi,110.00000000000001
+2 BHK Independent Floor, 40 L,"Sector 22 Rohini, Delhi",560.0,Ready to move,4 - 5 years old2 BathroomsResale ,1,2,Resale, Independent Floor,2,"Sector 22 Rohini,",Delhi,40.0
+2 BHK Independent Floor, 32 L,"Chattarpur, Delhi",850.0,Ready to move,2 BathroomsResale ,1,2,Resale, Independent Floor,2,"Chattarpur,",Delhi,32.0
+4 BHK Independent Floor, 5.75 Cr,"Sarvpriya Vihar, Delhi",2800.0,Ready to move,4 BathroomsResale ,1,4,Resale, Independent Floor,4,"Sarvpriya Vihar,",Delhi,575.0
+2 BHK Apartment, 1.5 Cr,"Kalkaji, Delhi",1150.0,Ready to move,2 BathroomsResale ,1,2,Resale, Apartment,2,"Kalkaji,",Delhi,150.0
+2 BHK Independent Floor, 65 L,"laxmi nagar, Delhi",758.0,Ready to move,5 - 6 years old2 BathroomsResale ,1,2,Resale, Independent Floor,2,"laxmi nagar,",Delhi,65.0
+3 BHK Independent Floor, 1.5 Cr,"Rajinder Nagar, Delhi",990.0,Ready to move,2 BathroomsResale ,1,2,Resale, Independent Floor,3,"Rajinder Nagar,",Delhi,150.0
+4 BHK Independent Floor, 32 L,"Sector 13 Rohini, Delhi",1969.0,Ready to move,21 - 22 years old3 BathroomsResale ,1,3,Resale, Independent Floor,4,"Sector 13 Rohini,",Delhi,32.0
+3 BHK Independent Floor, 52 L,"Jamia Nagar, Delhi",1000.0,Ready to move,2 BathroomsResale ,2,2,Resale, Independent Floor,3,"Jamia Nagar,",Delhi,52.0
+3 BHK Apartment, 1.15 Cr,"dwarka sector 17, Delhi",1450.0,Ready to move,5 - 6 years old2 BathroomsResale ,2,2,Resale, Apartment,3,"dwarka sector 17,",Delhi,114.99999999999999
+2 BHK Independent House, 40 L,"Najafgarh, Delhi",1042.0,Ready to move,2 BathroomsResale West facing,2,2,Resale, Independent House,2,"Najafgarh,",Delhi,40.0
+3 BHK Apartment, 1.6 Cr,"Paschim Vihar, Delhi",1250.0,Ready to move,1 - 2 years old3 BathroomsResale ,2,3,Resale, Apartment,3,"Paschim Vihar,",Delhi,160.0
+2 BHK Independent House, 67 L,"Patel Nagar, Delhi",800.0,Ready to move,2 BathroomsResale ,2,2,Resale, Independent House,2,"Patel Nagar,",Delhi,67.0
+2 BHK Independent Floor, 20 L,"Burari, Delhi",650.0,Ready to move,2 BathroomsResale ,2,2,Resale, Independent Floor,2,"Burari,",Delhi,20.0
+3 BHK Independent Floor, 1.45 Cr,"Janakpuri, Delhi",2100.0,Ready to move,3 BathroomsResale SouthEast facing,2,3,Resale, Independent Floor,3,"Janakpuri,",Delhi,145.0
+3 BHK Independent Floor, 40 L,"Dwarka Mor, Delhi",1000.0,Ready to move,4 - 5 years old2 BathroomsResale ,2,2,Resale, Independent Floor,3,"Dwarka Mor,",Delhi,40.0
+3 BHK Independent Floor, 66 L,"Sector 23 Dwarka, Delhi",1125.0,Ready to move,3 BathroomsResale ,2,3,Resale, Independent Floor,3,"Sector 23 Dwarka,",Delhi,66.0
+4 BHK Independent House, 6.5 Cr,"Sarai Rohilla, Delhi",1440.0,Ready to move,3 BathroomsResale ,2,3,Resale, Independent House,4,"Sarai Rohilla,",Delhi,650.0
+4 BHK Apartment, 2.7 Cr,"Punjabi Bagh, Delhi",2300.0,Ready to move,5 BathroomsResale ,2,5,Resale, Apartment,4,"Punjabi Bagh,",Delhi,270.0
+3 BHK Apartment, 60 L,"Chattarpur, Delhi",2050.0,Under Construction,2 BathroomsResale ,2,2,Resale, Apartment,3,"Chattarpur,",Delhi,60.0
+3 BHK Independent Floor, 65 L,"Moti Nagar, Delhi",1215.0,Ready to move,2 BathroomsResale East facing,2,2,Resale, Independent Floor,3,"Moti Nagar,",Delhi,65.0
+2 BHK Independent Floor, 29 L,"Uttam Nagar, Delhi",700.0,Ready to move,2 BathroomsResale ,2,2,Resale, Independent Floor,2,"Uttam Nagar,",Delhi,29.0
+2 BHK Independent Floor, 99 L,"Subhash Nagar, Delhi",1182.0,Ready to move,5 - 6 years old2 BathroomsResale ,2,2,Resale, Independent Floor,2,"Subhash Nagar,",Delhi,99.0
+2 BHK Independent Floor, 23.99 L,"Mansa Ram Park, Delhi",510.0,Ready to move,5 - 6 years old2 BathroomsResale ,2,2,Resale, Independent Floor,2,"Mansa Ram Park,",Delhi,23.99
+3 BHK Apartment, 90 L,"Mehrauli, Delhi",1550.0,Ready to move,2 BathroomsResale ,2,2,Resale, Apartment,3,"Mehrauli,",Delhi,90.0
+3 BHK Independent Floor, 65 L,"Tagore Garden Extension, Delhi",1026.0,Ready to move,3 - 4 years old2 BathroomsResale ,2,2,Resale, Independent Floor,3,"Tagore Garden Extension,",Delhi,65.0
+3 BHK Independent Floor, 57 L,"Sector 25 Rohini, Delhi",900.0,Ready to move,1 - 2 years old2 BathroomsResale ,3,2,Resale, Independent Floor,3,"Sector 25 Rohini,",Delhi,57.0
+1 BHK Apartment, 12 L,"New Ashok Nagar, Delhi",400.0,Ready to move,1 BathroomsResale ,3,1,Resale, Apartment,1,"New Ashok Nagar,",Delhi,12.0
+3 BHK Independent Floor, 1.4 Cr,"Dr Mukherji Nagar, Delhi",1400.0,Ready to move,1 - 2 years old3 BathroomsResale ,3,3,Resale, Independent Floor,3,"Dr Mukherji Nagar,",Delhi,140.0
+2 BHK Apartment, 20 L,"Bindapur, Delhi",451.0,Ready to move,1 BathroomsResale ,3,1,Resale, Apartment,2,"Bindapur,",Delhi,20.0
+3 BHK Independent Floor, 29.99 L,"Burari, Delhi",720.0,Ready to move,2 BathroomsResale ,3,2,Resale, Independent Floor,3,"Burari,",Delhi,29.99
+3 BHK Independent House, 2.3 Cr,"Sector 11 Rohini, Delhi",1494.0,Ready to move,3 - 4 years old2 BathroomsResale ,3,2,Resale, Independent House,3,"Sector 11 Rohini,",Delhi,229.99999999999997
+3 BHK Apartment, 47 L,"Mahavir Enclave, Delhi",810.0,Ready to move,2 BathroomsResale East facing,3,2,Resale, Apartment,3,"Mahavir Enclave,",Delhi,47.0
+2 BHK Independent Floor, 26 L,"Mahavir Enclave, Delhi",720.0,Ready to move,1 BathroomsResale ,3,1,Resale, Independent Floor,2,"Mahavir Enclave,",Delhi,26.0
+3 BHK Independent Floor, 60 L,"Sector 23 Rohini, Delhi",810.0,Ready to move,5 - 6 years old2 BathroomsResale ,3,2,Resale, Independent Floor,3,"Sector 23 Rohini,",Delhi,60.0
+2 BHK Independent Floor, 30 L,"Govindpuri, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsResale ,3,2,Resale, Independent Floor,2,"Govindpuri,",Delhi,30.0
+2 BHK Apartment, 25 L,"Aya Nagar, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsResale ,3,2,Resale, Apartment,2,"Aya Nagar,",Delhi,25.0
+3 BHK Apartment, 1.25 Cr,"Pitampura, Delhi",1100.0,Ready to move,2 BathroomsResale ,3,2,Resale, Apartment,3,"Pitampura,",Delhi,125.0
+4 BHK Apartment, 1.6 Cr,"Pitampura, Delhi",1500.0,Ready to move,3 BathroomsResale East facing,3,3,Resale, Apartment,4,"Pitampura,",Delhi,160.0
+4 BHK Independent Floor, 2.2 Cr,"Kirti Nagar, Delhi",2100.0,Ready to move,3 BathroomsResale ,3,3,Resale, Independent Floor,4,"Kirti Nagar,",Delhi,220.00000000000003
+1 BHK Apartment, 16 L,"Chattarpur, Delhi",500.0,Ready to move,1 BathroomsResale East facing,3,1,Resale, Apartment,1,"Chattarpur,",Delhi,16.0
+3 BHK Apartment, 2.58 Cr,"Patparganj, Delhi",1700.0,Ready to move,2 BathroomsResale ,3,2,Resale, Apartment,3,"Patparganj,",Delhi,258.0
+3 BHK Independent House, 2.5 Cr,"Malviya Nagar, Delhi",1890.0,Ready to move,3 BathroomsResale NorthWest facing,3,3,Resale, Independent House,3,"Malviya Nagar,",Delhi,250.0
+3 BHK Independent Floor, 63 L,"Dwarka Mor, Delhi",1000.0,Under Construction,2 BathroomsResale East facing,3,2,Resale, Independent Floor,3,"Dwarka Mor,",Delhi,63.0
+3 BHK Independent Floor, 35 L,"Dwarka Mor, Delhi",850.0,Ready to move,4 - 5 years old2 BathroomsResale ,3,2,Resale, Independent Floor,3,"Dwarka Mor,",Delhi,35.0
+3 BHK Independent House, 2.25 Cr,"Gokalpur, Delhi",2000.0,Ready to move,2 - 3 years old1 BathroomsResale ,4,1,Resale, Independent House,3,"Gokalpur,",Delhi,225.0
+5 BHK Apartment, 4 Cr,"Karol Bagh, Delhi",2000.0,Ready to move,6 BathroomsResale ,4,6,Resale, Apartment,5,"Karol Bagh,",Delhi,400.0
+3 BHK Apartment, 1.4 Cr,"Okhla, Delhi",1100.0,Ready to move,2 BathroomsResale North facing,4,2,Resale, Apartment,3,"Okhla,",Delhi,140.0
+5 BHK Independent House, 13 Cr,"Pitampura, Delhi",1854.0,Ready to move,4 BathroomsResale South facing,4,4,Resale, Independent House,5,"Pitampura,",Delhi,1300.0
+3 BHK Independent Floor, 3.1 Cr,"Pitampura, Delhi",1700.0,Ready to move,3 BathroomsResale NorthWest facing,4,3,Resale, Independent Floor,3,"Pitampura,",Delhi,310.0
+4 BHK Villa, 16.38 Cr,"Pitampura, Delhi",2475.0,Ready to move,3 BathroomsResale NorthEast facing,4,3,Resale, Villa,4,"Pitampura,",Delhi,1638.0
+1 BHK Apartment, 30 L,"Shahdara, Delhi",700.0,Ready to move,2 BathroomsResale ,4,2,Resale, Apartment,1,"Shahdara,",Delhi,30.0
+2 BHK Independent Floor, 39 L,"Uttam Nagar, Delhi",675.0,Ready to move,2 BathroomsResale ,4,2,Resale, Independent Floor,2,"Uttam Nagar,",Delhi,39.0
+3 BHK Independent Floor, 42 L,"Chattarpur, Delhi",1125.0,Ready to move,3 BathroomsResale ,4,3,Resale, Independent Floor,3,"Chattarpur,",Delhi,42.0
+3 BHK Apartment, 1.3 Cr,"Sector 4 Dwarka, Delhi",1275.0,Ready to move,2 BathroomsResale ,4,2,Resale, Apartment,3,"Sector 4 Dwarka,",Delhi,130.0
+1 BHK Independent Floor, 41 L,"Rohini sector 24, Delhi",500.0,Ready to move,2 BathroomsResale North facing,4,2,Resale, Independent Floor,1,"Rohini sector 24,",Delhi,41.0
+1 BHK Independent Floor, 18 L,"Bindapur, Delhi",405.0,Ready to move,1 BathroomsResale East facing,4,1,Resale, Independent Floor,1,"Bindapur,",Delhi,18.0
+1 BHK Independent House, 14 L,"Chattarpur, Delhi",405.0,Ready to move,1 BathroomsResale ,4,1,Resale, Independent House,1,"Chattarpur,",Delhi,14.0
+3 BHK Independent Floor, 46 L,"Jahangirpuri, Delhi",800.0,Ready to move,3 - 4 years old2 BathroomsResale ,4,2,Resale, Independent Floor,3,"Jahangirpuri,",Delhi,46.0
+6 BHK Independent Floor, 90 L,"Mansa Ram Park, Delhi",2000.0,Ready to move,5 - 6 years old4 BathroomsResale ,4,4,Resale, Independent Floor,6,"Mansa Ram Park,",Delhi,90.0
+2 BHK Independent Floor, 35 L,"West Sagarpur, Delhi",757.0,Ready to move,5 - 6 years old2 BathroomsResale ,4,2,Resale, Independent Floor,2,"West Sagarpur,",Delhi,35.0
+3 BHK Independent Floor, 63 L,"Burari, Delhi",1250.0,Under Construction,3 BathroomsResale ,4,3,Resale, Independent Floor,3,"Burari,",Delhi,63.0
+2 BHK Independent Floor, 37 L,"Tilak Nagar, Delhi",720.0,Ready to move,5 - 6 years old2 BathroomsResale ,5,2,Resale, Independent Floor,2,"Tilak Nagar,",Delhi,37.0
+3 BHK Apartment, 1 Cr,"vikaspuri, Delhi",1100.0,Ready to move,1 - 2 years old2 BathroomsResale ,5,2,Resale, Apartment,3,"vikaspuri,",Delhi,100.0
+2 BHK Apartment, 24.5 L,"Jamia Nagar, Delhi",460.0,Ready to move,1 BathroomsResale East facing,5,1,Resale, Apartment,2,"Jamia Nagar,",Delhi,24.5
+2 BHK Independent Floor, 20 L,"Pandav Nagar, Delhi",458.0,Ready to move,1 BathroomsResale ,5,1,Resale, Independent Floor,2,"Pandav Nagar,",Delhi,20.0
+2 BHK Independent Floor, 24.5 L,"Uttam Nagar, Delhi",694.0,Ready to move,2 BathroomsResale West facing,5,2,Resale, Independent Floor,2,"Uttam Nagar,",Delhi,24.5
+3 BHK Independent Floor, 79 L,"Shakarpur Khas, Delhi",900.0,Ready to move,3 - 4 years old2 BathroomsResale ,5,2,Resale, Independent Floor,3,"Shakarpur Khas,",Delhi,79.0
+2 BHK Independent Floor, 40 L,"Khirki Extension, Delhi",650.0,Ready to move,5 - 6 years old2 BathroomsResale ,5,2,Resale, Independent Floor,2,"Khirki Extension,",Delhi,40.0
+3 BHK Independent Floor, 1.79 Cr,"Rajouri Garden, Delhi",1450.0,Ready to move,3 BathroomsResale North facing,5,3,Resale, Independent Floor,3,"Rajouri Garden,",Delhi,179.0
+3 BHK Independent Floor, 38 L,"Uttam Nagar, Delhi",892.0,Ready to move,2 BathroomsResale ,5,2,Resale, Independent Floor,3,"Uttam Nagar,",Delhi,38.0
+3 BHK Independent Floor, 7.25 Cr,"West End, Delhi",2400.0,Ready to move,3 - 4 years old4 BathroomsResale ,5,4,Resale, Independent Floor,3,"West End,",Delhi,725.0
+3 BHK Apartment, 92 L,"vikaspuri, Delhi",1100.0,Ready to move,1 - 2 years old2 BathroomsResale ,5,2,Resale, Apartment,3,"vikaspuri,",Delhi,92.0
+4 BHK Independent Floor, 75 L,"Rohini sector 24, Delhi",1337.0,Under Construction,4 BathroomsResale North facing,5,4,Resale, Independent Floor,4,"Rohini sector 24,",Delhi,75.0
+1 BHK Apartment, 19.99 L,"Uttam Nagar, Delhi",470.0,Ready to move,1 BathroomsResale ,5,1,Resale, Apartment,1,"Uttam Nagar,",Delhi,19.99
+3 BHK Independent Floor, 75 L,"Jamia Nagar, Delhi",1250.0,Ready to move,1 BathroomsResale ,5,1,Resale, Independent Floor,3,"Jamia Nagar,",Delhi,75.0
+2 BHK Independent Floor, 25 L,"Govindpuri, Delhi",600.0,Ready to move,4 - 5 years old1 BathroomsResale ,5,1,Resale, Independent Floor,2,"Govindpuri,",Delhi,25.0
+2 BHK Apartment, 1.4 Cr,"Janakpuri, Delhi",1000.0,Ready to move,2 BathroomsResale South facing,5,2,Resale, Apartment,2,"Janakpuri,",Delhi,140.0
+4 BHK Independent Floor, 1.3 Cr,"Sector 8 Dwarka, Delhi",1070.0,Ready to move,2 - 3 years old3 BathroomsResale ,5,3,Resale, Independent Floor,4,"Sector 8 Dwarka,",Delhi,130.0
+2 BHK Independent Floor, 30 L,"Jamia Nagar, Delhi",800.0,Ready to move,2 BathroomsResale ,5,2,Resale, Independent Floor,2,"Jamia Nagar,",Delhi,30.0
+7 BHK Independent House, 22 Cr,"Greater Kailash, Delhi",4500.0,Ready to move,7 BathroomsResale NorthEast facing,5,7,Resale, Independent House,7,"Greater Kailash,",Delhi,2200.0
+2 BHK Independent Floor, 40 L,"Ganesh Nagar, Delhi",623.0,Ready to move,2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Ganesh Nagar,",Delhi,40.0
+2 BHK Apartment, 62 L,"Sector 1 Dwarka, Delhi",1800.0,Ready to move,3 BathroomsResale South facing,6,3,Resale, Apartment,2,"Sector 1 Dwarka,",Delhi,62.0
+2 BHK Independent House, 40 L,"Najafgarh, Delhi",1042.0,Ready to move,2 BathroomsResale West facing,6,2,Resale, Independent House,2,"Najafgarh,",Delhi,40.0
+3 BHK Apartment, 52 L,"Tughlakabad, Delhi",1050.0,Ready to move,2 BathroomsResale North facing,6,2,Resale, Apartment,3,"Tughlakabad,",Delhi,52.0
+3 BHK Apartment, 35 L,"Aya Nagar, Delhi",1000.0,Ready to move,4 - 5 years old3 BathroomsResale ,6,3,Resale, Apartment,3,"Aya Nagar,",Delhi,35.0
+5 BHK Independent Floor, 7.25 Cr,"Karol Bagh, Delhi",3500.0,Under Construction,5 BathroomsResale ,6,5,Resale, Independent Floor,5,"Karol Bagh,",Delhi,725.0
+2 BHK Independent Floor, 31 L,"Uttam Nagar, Delhi",700.0,Ready to move,2 BathroomsResale East facing,6,2,Resale, Independent Floor,2,"Uttam Nagar,",Delhi,31.0
+3 BHK Independent Floor, 37.99 L,"Mansa Ram Park, Delhi",700.0,Ready to move,5 - 6 years old2 BathroomsResale ,6,2,Resale, Independent Floor,3,"Mansa Ram Park,",Delhi,37.99
+2 BHK Independent Floor, 20 L,"Burari, Delhi",550.0,Ready to move,2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Burari,",Delhi,20.0
+1 BHK Independent Floor, 10 L,"Mandawali, Delhi",360.0,Ready to move,1 BathroomsResale ,6,1,Resale, Independent Floor,1,"Mandawali,",Delhi,10.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+3 BHK Independent Floor, 32.99 L,"Dwarka Mor, Delhi",900.0,Ready to move,4 - 5 years old3 BathroomsResale ,6,3,Resale, Independent Floor,3,"Dwarka Mor,",Delhi,32.99
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,6,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 25 L,"Dwarka Mor, Delhi",520.0,Ready to move,4 - 5 years old2 BathroomsResale ,7,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,25.0
+2 BHK Independent Floor, 20 L,"Nilothi, Delhi",450.0,Ready to move,4 - 5 years old1 BathroomsResale ,7,1,Resale, Independent Floor,2,"Nilothi,",Delhi,20.0
+2 BHK Independent Floor, 29 L,"Jamia Nagar, Delhi",675.0,Ready to move,2 BathroomsResale ,7,2,Resale, Independent Floor,2,"Jamia Nagar,",Delhi,29.0
+2 BHK Independent Floor, 37 L,"Tilak Nagar, Delhi",720.0,Ready to move,5 - 6 years old2 BathroomsResale ,7,2,Resale, Independent Floor,2,"Tilak Nagar,",Delhi,37.0
+3 BHK Independent Floor, 35 L,"Dwarka Mor, Delhi",850.0,Ready to move,4 - 5 years old2 BathroomsResale ,7,2,Resale, Independent Floor,3,"Dwarka Mor,",Delhi,35.0
+3 BHK Independent Floor, 7.1 Cr,"Anand Niketan, Delhi",1900.0,Ready to move,4 BathroomsResale South facing,7,4,Resale, Independent Floor,3,"Anand Niketan,",Delhi,710.0
+2 BHK Independent Floor, 1.77 Cr,"Subhash Nagar, Delhi",1450.0,Ready to move,5 - 6 years old3 BathroomsResale ,7,3,Resale, Independent Floor,2,"Subhash Nagar,",Delhi,177.0
+2 BHK Independent Floor, 26 L,"Shakurpur, Delhi",446.0,Ready to move,3 years old1 BathroomsResale ,7,1,Resale, Independent Floor,2,"Shakurpur,",Delhi,26.0
+3 BHK Independent Floor, 27 L,"Jamia Nagar, Delhi",765.0,Ready to move,2 BathroomsResale ,7,2,Resale, Independent Floor,3,"Jamia Nagar,",Delhi,27.0
+2 BHK Independent Floor, 27 L,"Shahdara, Delhi",750.0,Ready to move,2 BathroomsResale North facing,7,2,Resale, Independent Floor,2,"Shahdara,",Delhi,27.0
+2 BHK Apartment, 50 L,"Sector 19 Dwarka, Delhi",675.0,Ready to move,2 BathroomsResale ,7,2,Resale, Apartment,2,"Sector 19 Dwarka,",Delhi,50.0
+3 BHK Apartment, 50 L,"Sector 8 Dwarka, Delhi",1500.0,Ready to move,2 BathroomsResale ,7,2,Resale, Apartment,3,"Sector 8 Dwarka,",Delhi,50.0
+3 BHK Independent Floor, 62 L,"Vishnu Garden, Delhi",1007.0,Ready to move,2 BathroomsResale NorthEast facing,7,2,Resale, Independent Floor,3,"Vishnu Garden,",Delhi,62.0
+3 BHK Independent Floor, 48 L,"Rohini sector 24, Delhi",864.0,Ready to move,2 BathroomsResale ,7,2,Resale, Independent Floor,3,"Rohini sector 24,",Delhi,48.0
+1 BHK Independent Floor, 27 L,"Madangir, Delhi",500.0,Ready to move,1 BathroomsResale ,7,1,Resale, Independent Floor,1,"Madangir,",Delhi,27.0
+2 BHK Independent Floor, 99 L,"Ramesh Nagar, Delhi",900.0,Ready to move,2 BathroomsResale North facing,7,2,Resale, Independent Floor,2,"Ramesh Nagar,",Delhi,99.0
+8 BHK Independent House, 1.3 Cr,"Hari Nagar, Delhi",4400.0,Ready to move,8 BathroomsResale East facing,7,8,Resale, Independent House,8,"Hari Nagar,",Delhi,130.0
+2 BHK Independent Floor, 99 L,"Ramesh Nagar, Delhi",900.0,Ready to move,2 BathroomsResale North facing,8,2,Resale, Independent Floor,2,"Ramesh Nagar,",Delhi,99.0
+8 BHK Independent House, 1.3 Cr,"Hari Nagar, Delhi",4400.0,Ready to move,8 BathroomsResale East facing,8,8,Resale, Independent House,8,"Hari Nagar,",Delhi,130.0
+3 BHK Independent Floor, 1 Cr,"Shahdara, Delhi",1600.0,Ready to move,3 BathroomsResale South facing,8,3,Resale, Independent Floor,3,"Shahdara,",Delhi,100.0
+3 BHK Independent Floor, 75 L,"Shahdara, Delhi",1100.0,Ready to move,2 BathroomsResale ,8,2,Resale, Independent Floor,3,"Shahdara,",Delhi,75.0
+6 BHK Independent House, 16 Cr,"Safdarjung Enclave, Delhi",2750.0,Ready to move,5 BathroomsResale East facing,8,5,Resale, Independent House,6,"Safdarjung Enclave,",Delhi,1600.0
+1 BHK Apartment, 25 L,"Narela, Delhi",450.0,Ready to move,1 BathroomsResale ,8,1,Resale, Apartment,1,"Narela,",Delhi,25.0
+2 BHK Independent Floor, 26 L,"Bharat Vihar, Delhi",675.0,Ready to move,5 - 6 years old2 BathroomsResale ,8,2,Resale, Independent Floor,2,"Bharat Vihar,",Delhi,26.0
+3 BHK Apartment, 65 L,"Tilak Nagar, Delhi",1080.0,Ready to move,5 - 6 years old2 BathroomsResale ,8,2,Resale, Apartment,3,"Tilak Nagar,",Delhi,65.0
+3 BHK Independent Floor, 85 L,"Shahdara, Delhi",1200.0,Under Construction,3 BathroomsResale ,8,3,Resale, Independent Floor,3,"Shahdara,",Delhi,85.0
+1 BHK Apartment, 20 L,"Sangam Vihar, Delhi",500.0,Ready to move,1 - 2 years old1 BathroomsResale ,8,1,Resale, Apartment,1,"Sangam Vihar,",Delhi,20.0
+4 BHK Apartment, 1.8 Cr,"Sector 7 Dwarka, Delhi",1875.0,Ready to move,3 BathroomsResale ,8,3,Resale, Apartment,4,"Sector 7 Dwarka,",Delhi,180.0
+3 BHK Independent Floor, 1.78 Cr,"Sector 8 Rohini, Delhi",1100.0,Ready to move,2 - 3 years old3 BathroomsResale ,8,3,Resale, Independent Floor,3,"Sector 8 Rohini,",Delhi,178.0
+2 BHK Independent Floor, 87 L,"Lajpat Nagar, Delhi",1300.0,Ready to move,5 years old2 BathroomsResale ,8,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,87.0
+3 BHK Apartment, 54 L,"Sector 1 Dwarka, Delhi",900.0,Ready to move,2 BathroomsResale ,8,2,Resale, Apartment,3,"Sector 1 Dwarka,",Delhi,54.0
+3 BHK Independent Floor, 4 Cr,"Jangpura, Delhi",2150.0,Ready to move,3 BathroomsResale ,8,3,Resale, Independent Floor,3,"Jangpura,",Delhi,400.0
+2 BHK Independent Floor, 43 L,"Sector 20 Rohini, Delhi",600.0,Ready to move,3 BathroomsResale East facing,8,3,Resale, Independent Floor,2,"Sector 20 Rohini,",Delhi,43.0
+3 BHK Independent Floor, 80 L,"Model Town, Delhi",800.0,Ready to move,2 BathroomsResale ,8,2,Resale, Independent Floor,3,"Model Town,",Delhi,80.0
+2 BHK Independent Floor, 1.8 Cr,"Kalkaji, Delhi",900.0,Under Construction,2 BathroomsResale NorthEast facing,8,2,Resale, Independent Floor,2,"Kalkaji,",Delhi,180.0
+3 BHK Apartment, 1.9 Cr,"Punjabi Bagh, Delhi",1440.0,Ready to move,12 - 13 years old3 BathroomsResale ,8,3,Resale, Apartment,3,"Punjabi Bagh,",Delhi,190.0
+2 BHK Apartment, 26 L,"Nawada, Delhi",550.0,Ready to move,2 BathroomsResale East facing,8,2,Resale, Apartment,2,"Nawada,",Delhi,26.0
+4 BHK Independent Floor, 3.25 Cr,"Saket, Delhi",1400.0,Ready to move,2 BathroomsResale North facing,9,2,Resale, Independent Floor,4,"Saket,",Delhi,325.0
+3 BHK Apartment, 1.2 Cr,"Paschim Vihar, Delhi",1200.0,Ready to move,1 - 2 years old2 BathroomsResale ,9,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,120.0
+3 BHK Independent Floor, 3 Cr,"East of Kailash, Delhi",1800.0,Ready to move,3 BathroomsResale ,9,3,Resale, Independent Floor,3,"East of Kailash,",Delhi,300.0
+4 BHK Independent Floor, 1.5 Cr,"Shahdara, Delhi",1800.0,Under Construction,3 BathroomsResale ,9,3,Resale, Independent Floor,4,"Shahdara,",Delhi,150.0
+2 BHK Independent Floor, 1.25 Cr,"Gujranwala Town, Delhi",1000.0,Ready to move,2 BathroomsResale ,9,2,Resale, Independent Floor,2,"Gujranwala Town,",Delhi,125.0
+3 BHK Independent Floor, 48 L,"Bindapur, Delhi",1500.0,Ready to move,2 BathroomsResale ,9,2,Resale, Independent Floor,3,"Bindapur,",Delhi,48.0
+2 BHK Apartment, 76 L,"Pitampura, Delhi",800.0,Ready to move,1 - 2 years old1 BathroomsResale ,9,1,Resale, Apartment,2,"Pitampura,",Delhi,76.0
+4 BHK Villa, 69.99 L,"Gokalpur, Delhi",2500.0,Ready to move,2 - 3 years old3 BathroomsResale ,9,3,Resale, Villa,4,"Gokalpur,",Delhi,69.99
+7 BHK Independent House, 23 Cr,"Greater Kailash, Delhi",5000.0,Ready to move,5 - 6 years old7 BathroomsResale ,9,7,Resale, Independent House,7,"Greater Kailash,",Delhi,2300.0
+5 BHK Independent House, 10.5 Cr,"Greater Kailash, Delhi",2050.0,Ready to move,5 - 6 years old5 BathroomsResale ,9,5,Resale, Independent House,5,"Greater Kailash,",Delhi,1050.0
+3 BHK Independent Floor, 48.5 L,"laxmi nagar, Delhi",900.0,Ready to move,5 - 6 years old2 BathroomsResale ,9,2,Resale, Independent Floor,3,"laxmi nagar,",Delhi,48.5
+2 BHK Apartment, 19 L,"Uttam Nagar, Delhi",550.0,Ready to move,2 BathroomsResale South facing,9,2,Resale, Apartment,2,"Uttam Nagar,",Delhi,19.0
+1 BHK Apartment, 56 L,"Vasant Kunj, Delhi",500.0,Ready to move,2 BathroomsResale North facing,9,2,Resale, Apartment,1,"Vasant Kunj,",Delhi,56.0
+4 BHK Independent Floor, 1.5 Cr,"Sector 8 Rohini, Delhi",1500.0,Ready to move,2 - 3 years old3 BathroomsResale ,9,3,Resale, Independent Floor,4,"Sector 8 Rohini,",Delhi,150.0
+3 BHK Apartment, 60 L,"Shahdara, Delhi",1000.0,Ready to move,2 BathroomsResale ,9,2,Resale, Apartment,3,"Shahdara,",Delhi,60.0
+10 BHK Independent House, 1.5 Cr,"Najafgarh, Delhi",6000.0,Ready to move,7 BathroomsResale ,9,7,Resale, Independent House,1,"Najafgarh,",Delhi,150.0
+3 BHK Apartment, 2.95 Cr,"Sector-B Vasant Kunj, Delhi",1800.0,Ready to move,3 BathroomsResale ,9,3,Resale, Apartment,3,"Sector-B Vasant Kunj,",Delhi,295.0
+2 BHK Apartment, 25 L,"Dwarka Mor, Delhi",445.0,Ready to move,4 - 5 years old2 BathroomsResale ,9,2,Resale, Apartment,2,"Dwarka Mor,",Delhi,25.0
+1 BHK Independent Floor, 29 L,"Hari Nagar, Delhi",510.0,Ready to move,2 BathroomsResale ,9,2,Resale, Independent Floor,1,"Hari Nagar,",Delhi,29.0
+1 BHK Independent Floor, 29 L,"Hari Nagar, Delhi",510.0,Ready to move,2 BathroomsResale ,10,2,Resale, Independent Floor,1,"Hari Nagar,",Delhi,29.0
+1 BHK Independent Floor, 34 L,"Yamuna Vihar, Delhi",450.0,Ready to move,1 BathroomsNew ,10,1,New, Independent Floor,1,"Yamuna Vihar,",Delhi,34.0
+2 BHK Independent Floor, 95 L,"Lajpat Nagar, Delhi",900.0,Ready to move,5 years old2 BathroomsResale ,10,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,95.0
+3 BHK Independent Floor, 1.3 Cr,"Paschim Vihar, Delhi",901.0,Ready to move,3 BathroomsNew NorthEast facing,10,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,130.0
+3 BHK Independent Floor, 2.85 Cr,"Paschim Vihar, Delhi",1800.0,Ready to move,3 BathroomsNew NorthEast facing,10,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,285.0
+3 BHK Independent Floor, 3.25 Cr,"Paschim Vihar, Delhi",1810.0,Ready to move,3 BathroomsNew NorthEast facing,10,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,325.0
+5 BHK Villa, 9.5 Cr,"Chattarpur, Delhi",8000.0,Ready to move,5 BathroomsNew East facing,10,5,New, Villa,5,"Chattarpur,",Delhi,950.0
+3 BHK Independent Floor, 1.8 Cr,"Shahdara, Delhi",1600.0,Ready to move,3 BathroomsResale ,10,3,Resale, Independent Floor,3,"Shahdara,",Delhi,180.0
+3 BHK Independent Floor, 1.7 Cr,"Malviya Nagar, Delhi",1800.0,Ready to move,3 BathroomsResale ,10,3,Resale, Independent Floor,3,"Malviya Nagar,",Delhi,170.0
+3 BHK Independent Floor, 3.5 Cr,"Defence Colony, Delhi",1800.0,Ready to move,3 BathroomsResale West facing,10,3,Resale, Independent Floor,3,"Defence Colony,",Delhi,350.0
+2 BHK Independent House, 88 L,"Ashok Nagar, Delhi",900.0,Ready to move,2 BathroomsResale ,10,2,Resale, Independent House,2,"Ashok Nagar,",Delhi,88.0
+3 BHK Apartment, 1.7 Cr,"Sector 10 Dwarka, Delhi",1790.0,Ready to move,2 BathroomsResale ,10,2,Resale, Apartment,3,"Sector 10 Dwarka,",Delhi,170.0
+2 BHK Independent Floor, 85 L,"Lajpat Nagar, Delhi",900.0,Ready to move,5 years old2 BathroomsResale ,10,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,85.0
+2 BHK Apartment, 1.32 Cr,"Sector 22 Dwarka, Delhi",1290.0,Ready to move,2 BathroomsResale ,10,2,Resale, Apartment,2,"Sector 22 Dwarka,",Delhi,132.0
+4 BHK Independent Floor, 6.5 Cr,"Hauz Khas, Delhi",2600.0,Ready to move,4 BathroomsNew ,10,4,New, Independent Floor,4,"Hauz Khas,",Delhi,650.0
+3 BHK Apartment, 1.3 Cr,"Sector 6 Dwarka, Delhi",1600.0,Ready to move,2 BathroomsResale NorthEast facing,10,2,Resale, Apartment,3,"Sector 6 Dwarka,",Delhi,130.0
+1 BHK Independent Floor, 16 L,"mayur vihar phase 1, Delhi",600.0,Ready to move,5 - 6 years old1 BathroomsResale ,10,1,Resale, Independent Floor,1,"mayur vihar phase 1,",Delhi,16.0
+1 BHK Independent Floor, 20 L,"mayur vihar phase 1, Delhi",600.0,Ready to move,5 - 6 years old1 BathroomsResale ,10,1,Resale, Independent Floor,1,"mayur vihar phase 1,",Delhi,20.0
+3 BHK Independent Floor, 3.5 Cr,"Paschim Vihar, Delhi",2200.0,Ready to move,3 BathroomsResale NorthEast facing,10,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,350.0
+3 BHK Apartment, 1.9 Cr,"Sector 22 Dwarka, Delhi",1780.0,Ready to move,11 - 12 years old3 BathroomsResale ,10,3,Resale, Apartment,3,"Sector 22 Dwarka,",Delhi,190.0
+2 BHK Apartment, 1.32 Cr,"Sector 22 Dwarka, Delhi",1300.0,Ready to move,2 BathroomsResale ,11,2,Resale, Apartment,2,"Sector 22 Dwarka,",Delhi,132.0
+3 BHK Independent Floor, 1.4 Cr,"Shakurpur, Delhi",1440.0,Ready to move,3 years old3 BathroomsNew ,11,3,New, Independent Floor,3,"Shakurpur,",Delhi,140.0
+4 BHK Independent Floor, 6.5 Cr,"Gulmohar park, Delhi",2500.0,Ready to move,4 BathroomsResale SouthEast facing,11,4,Resale, Independent Floor,4,"Gulmohar park,",Delhi,650.0
+3 BHK Independent Floor, 3.5 Cr,"Paschim Vihar, Delhi",2250.0,Ready to move,3 BathroomsNew East facing,11,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,350.0
+2 BHK Independent Floor, 65 L,"Yamuna Vihar, Delhi",850.0,Ready to move,2 BathroomsNew NorthEast facing,11,2,New, Independent Floor,2,"Yamuna Vihar,",Delhi,65.0
+2 BHK Independent Floor, 65 L,"Shahdara, Delhi",900.0,Ready to move,2 BathroomsResale ,11,2,Resale, Independent Floor,2,"Shahdara,",Delhi,65.0
+2 BHK Independent Floor, 34 L,"Shahdara, Delhi",500.0,Under Construction,1 BathroomsNew ,11,1,New, Independent Floor,2,"Shahdara,",Delhi,34.0
+2 BHK Independent House, 2.1 Cr,"Shahdara, Delhi",850.0,Ready to move,3 BathroomsResale ,11,3,Resale, Independent House,2,"Shahdara,",Delhi,210.0
+1 BHK Apartment, 20 L,"Shahdara, Delhi",550.0,Ready to move,1 BathroomsNew SouthWest facing,11,1,New, Apartment,1,"Shahdara,",Delhi,20.0
+2 BHK Apartment, 45 L,"Shahdara, Delhi",800.0,Ready to move,2 BathroomsNew NorthWest facing,11,2,New, Apartment,2,"Shahdara,",Delhi,45.0
+1 BHK Independent Floor, 26 L,"Shahdara, Delhi",450.0,Ready to move,1 BathroomsResale North facing,11,1,Resale, Independent Floor,1,"Shahdara,",Delhi,26.0
+1 BHK Apartment, 20 L,"Mahipalpur, Delhi",500.0,Ready to move,1 BathroomsResale ,11,1,Resale, Apartment,1,"Mahipalpur,",Delhi,20.0
+2 BHK Apartment, 48 L,"Mahipalpur, Delhi",990.0,Ready to move,2 BathroomsNew NorthWest facing,11,2,New, Apartment,2,"Mahipalpur,",Delhi,48.0
+1 BHK Independent House, 78 L,"Shahdara, Delhi",500.0,Ready to move,1 BathroomsResale ,11,1,Resale, Independent House,1,"Shahdara,",Delhi,78.0
+4 BHK Independent Floor, 1.6 Cr,"Pitampura, Delhi",2700.0,Ready to move,2 BathroomsResale North facing,11,2,Resale, Independent Floor,4,"Pitampura,",Delhi,160.0
+3 BHK Independent Floor, 55 L,"Shahdara, Delhi",1125.0,Ready to move,2 BathroomsResale ,11,2,Resale, Independent Floor,3,"Shahdara,",Delhi,55.0
+3 BHK Apartment, 65 L,"Shahdara, Delhi",1000.0,Ready to move,2 BathroomsNew NorthEast facing,11,2,New, Apartment,3,"Shahdara,",Delhi,65.0
+2 BHK Independent Floor, 85 L,"Yamuna Vihar, Delhi",950.0,Ready to move,2 BathroomsResale ,11,2,Resale, Independent Floor,2,"Yamuna Vihar,",Delhi,85.0
+2 BHK Independent Floor, 50 L,"Shahdara, Delhi",800.0,Under Construction,2 BathroomsResale ,11,2,Resale, Independent Floor,2,"Shahdara,",Delhi,50.0
+2 BHK Independent Floor, 1.2 Cr,"Lajpat Nagar, Delhi",900.0,Ready to move,5 years old2 BathroomsResale ,11,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,120.0
+3 BHK Independent Floor, 1.5 Cr,"Mansarover Garden, Delhi",1350.0,Ready to move,3 - 4 years old2 BathroomsNew ,12,2,New, Independent Floor,3,"Mansarover Garden,",Delhi,150.0
+2 BHK Independent Floor, 75 L,"Shahdara, Delhi",800.0,Ready to move,2 BathroomsResale ,12,2,Resale, Independent Floor,2,"Shahdara,",Delhi,75.0
+2 BHK Independent Floor, 2 Cr,"Hauz Khas, Delhi",1200.0,Ready to move,2 BathroomsResale South facing,12,2,Resale, Independent Floor,2,"Hauz Khas,",Delhi,200.0
+3 BHK Independent Floor, 1 Cr,"Mansarover Garden, Delhi",990.0,Ready to move,3 - 4 years old2 BathroomsResale ,12,2,Resale, Independent Floor,3,"Mansarover Garden,",Delhi,100.0
+3 BHK Apartment, 2.35 Cr,"Vasant Kunj, Delhi",1600.0,Ready to move,2 BathroomsResale ,12,2,Resale, Apartment,3,"Vasant Kunj,",Delhi,235.0
+3 BHK Independent Floor, 58 L,"mayur vihar phase 1, Delhi",1000.0,Ready to move,5 - 6 years old2 BathroomsResale ,12,2,Resale, Independent Floor,3,"mayur vihar phase 1,",Delhi,58.0
+2 BHK Independent Floor, 50 L,"Shakurpur, Delhi",675.0,Under Construction,2 BathroomsNew East facing,12,2,New, Independent Floor,2,"Shakurpur,",Delhi,50.0
+4 BHK Apartment, 2.7 Cr,"Karampura, Delhi",2600.0,Ready to move,5 - 6 years old4 BathroomsNew ,12,4,New, Apartment,4,"Karampura,",Delhi,270.0
+3 BHK Apartment, 1.53 Cr,"Karampura, Delhi",1475.0,Ready to move,5 - 6 years old3 BathroomsNew ,12,3,New, Apartment,3,"Karampura,",Delhi,153.0
+3 BHK Apartment, 1.53 Cr,"Karampura, Delhi",1480.0,Ready to move,5 - 6 years old3 BathroomsNew ,12,3,New, Apartment,3,"Karampura,",Delhi,153.0
+3 BHK Apartment, 1.47 Cr,"Karampura, Delhi",1415.0,Ready to move,5 - 6 years old3 BathroomsNew ,12,3,New, Apartment,3,"Karampura,",Delhi,147.0
+3 BHK Apartment, 1.58 Cr,"Karampura, Delhi",1525.0,Ready to move,5 - 6 years old3 BathroomsNew ,12,3,New, Apartment,3,"Karampura,",Delhi,158.0
+3 BHK Apartment, 1.49 Cr,"Karampura, Delhi",1435.0,Ready to move,5 - 6 years old3 BathroomsNew ,12,3,New, Apartment,3,"Karampura,",Delhi,149.0
+2 BHK Apartment, 1.24 Cr,"Karampura, Delhi",1200.0,Ready to move,5 - 6 years old2 BathroomsNew ,12,2,New, Apartment,2,"Karampura,",Delhi,124.0
+3 BHK Independent Floor, 2.1 Cr,"Kirti Nagar, Delhi",1800.0,Ready to move,3 BathroomsResale North facing,12,3,Resale, Independent Floor,3,"Kirti Nagar,",Delhi,210.0
+2 BHK Apartment, 1.24 Cr,"Karampura, Delhi",1200.0,Ready to move,5 - 6 years old2 BathroomsNew ,13,2,New, Apartment,2,"Karampura,",Delhi,124.0
+3 BHK Independent Floor, 2.1 Cr,"Kirti Nagar, Delhi",1800.0,Ready to move,3 BathroomsResale North facing,13,3,Resale, Independent Floor,3,"Kirti Nagar,",Delhi,210.0
+1 BHK Independent Floor, 72 L,"Sector 13 Rohini, Delhi",700.0,Ready to move,5 years old1 BathroomsResale ,13,1,Resale, Independent Floor,1,"Sector 13 Rohini,",Delhi,72.0
+3 BHK Apartment, 1.7 Cr,"Mayur Vihar, Delhi",1200.0,Ready to move,2 BathroomsResale ,13,2,Resale, Apartment,3,"Mayur Vihar,",Delhi,170.0
+2 BHK Independent Floor, 1.5 Cr,"Preet Vihar, Delhi",1125.0,Ready to move,2 BathroomsResale ,13,2,Resale, Independent Floor,2,"Preet Vihar,",Delhi,150.0
+3 BHK Apartment, 1.68 Cr,"Vasundhara Enclave, Delhi",1850.0,Ready to move,13 - 14 years old2 BathroomsResale ,13,2,Resale, Apartment,3,"Vasundhara Enclave,",Delhi,168.0
+2 BHK Apartment, 41.99 L,"Sector 9 Rohini, Delhi",1000.0,Ready to move,2 BathroomsNew West facing,13,2,New, Apartment,2,"Sector 9 Rohini,",Delhi,41.99
+3 BHK Independent Floor, 2.5 Cr,"Paschim Vihar, Delhi",1790.0,Ready to move,3 BathroomsResale North facing,13,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,250.0
+4 BHK Apartment, 2.5 Cr,"Sector-18 Dwarka, Delhi",2450.0,Ready to move,5 - 6 years old3 BathroomsResale ,13,3,Resale, Apartment,4,"Sector-18 Dwarka,",Delhi,250.0
+3 BHK Apartment, 1.72 Cr,"Sector 12 Dwarka, Delhi",1850.0,Ready to move,3 BathroomsResale NorthEast facing,13,3,Resale, Apartment,3,"Sector 12 Dwarka,",Delhi,172.0
+3 BHK Independent Floor, 1.7 Cr,"Paschim Vihar, Delhi",1200.0,Ready to move,3 BathroomsResale North facing,13,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,170.0
+2 BHK Independent Floor, 1.25 Cr,"Sheikh Sarai, Delhi",900.0,Ready to move,2 BathroomsResale NorthWest facing,13,2,Resale, Independent Floor,2,"Sheikh Sarai,",Delhi,125.0
+3 BHK Independent Floor, 3 Cr,"Malviya Nagar, Delhi",1800.0,Ready to move,3 BathroomsNew East facing,13,3,New, Independent Floor,3,"Malviya Nagar,",Delhi,300.0
+3 BHK Apartment, 1.2 Cr,"Paschim Vihar, Delhi",1000.0,Ready to move,2 BathroomsResale NorthEast facing,13,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,120.0
+3 BHK Apartment, 1.2 Cr,"Paschim Vihar, Delhi",1000.0,Ready to move,2 BathroomsResale NorthEast facing,13,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,120.0
+4 BHK Independent Floor, 6 Cr,"Safdarjung Enclave, Delhi",3000.0,Ready to move,4 BathroomsNew ,13,4,New, Independent Floor,4,"Safdarjung Enclave,",Delhi,600.0
+4 BHK Independent Floor, 6 Cr,"Safdarjung Enclave, Delhi",3000.0,Ready to move,4 BathroomsNew South facing,13,4,New, Independent Floor,4,"Safdarjung Enclave,",Delhi,600.0
+3 BHK Independent Floor, 3.7 Cr,"Safdarjung Enclave, Delhi",1900.0,Ready to move,3 BathroomsNew ,13,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,370.0
+3 BHK Independent Floor, 3.7 Cr,"Safdarjung Enclave, Delhi",1900.0,Ready to move,3 BathroomsNew South facing,13,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,370.0
+3 BHK Apartment, 1.2 Cr,"Paschim Vihar, Delhi",980.0,Ready to move,2 BathroomsResale North facing,14,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,120.0
+2 BHK Apartment, 1.06 Cr,"Paschim Vihar, Delhi",1100.0,Ready to move,1 - 2 years old2 BathroomsResale ,14,2,Resale, Apartment,2,"Paschim Vihar,",Delhi,106.0
+2 BHK Apartment, 95 L,"Paschim Vihar, Delhi",900.0,Ready to move,2 BathroomsResale North facing,14,2,Resale, Apartment,2,"Paschim Vihar,",Delhi,95.0
+2 BHK Apartment, 1.3 Cr,"Sector 12 Dwarka, Delhi",1250.0,Ready to move,2 BathroomsResale ,14,2,Resale, Apartment,2,"Sector 12 Dwarka,",Delhi,130.0
+3 BHK Apartment, 1.82 Cr,"Sector 12 Dwarka, Delhi",2050.0,Ready to move,1 - 2 years old2 BathroomsResale ,14,2,Resale, Apartment,3,"Sector 12 Dwarka,",Delhi,182.0
+3 BHK Apartment, 1.65 Cr,"Sector 12 Dwarka, Delhi",1850.0,Ready to move,2 BathroomsResale ,14,2,Resale, Apartment,3,"Sector 12 Dwarka,",Delhi,165.0
+2 BHK Independent Floor, 1.07 Cr,"Ramesh Nagar, Delhi",900.0,Ready to move,2 BathroomsResale ,14,2,Resale, Independent Floor,2,"Ramesh Nagar,",Delhi,107.0
+3 BHK Independent Floor, 3 Cr,"Safdarjung Enclave, Delhi",1800.0,Ready to move,3 BathroomsResale North facing,14,3,Resale, Independent Floor,3,"Safdarjung Enclave,",Delhi,300.0
+3 BHK Independent Floor, 3 Cr,"Safdarjung Enclave, Delhi",1500.0,Ready to move,3 BathroomsNew East facing,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,300.0
+3 BHK Independent Floor, 3.75 Cr,"Safdarjung Enclave, Delhi",2400.0,Ready to move,3 BathroomsNew ,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,375.0
+3 BHK Independent Floor, 3.75 Cr,"Safdarjung Enclave, Delhi",2400.0,Ready to move,3 BathroomsNew North facing,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,375.0
+3 BHK Independent Floor, 3.5 Cr,"Safdarjung Enclave, Delhi",1800.0,Ready to move,3 BathroomsNew ,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,350.0
+3 BHK Independent Floor, 3.5 Cr,"Safdarjung Enclave, Delhi",1800.0,Ready to move,3 BathroomsNew East facing,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,350.0
+3 BHK Independent Floor, 3.1 Cr,"Safdarjung Enclave, Delhi",1600.0,Ready to move,3 BathroomsNew South facing,14,3,New, Independent Floor,3,"Safdarjung Enclave,",Delhi,310.0
+4 BHK Independent Floor, 3.35 Cr,"Paschim Vihar, Delhi",2200.0,Ready to move,3 BathroomsResale East facing,14,3,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,335.0
+3 BHK Apartment, 52 L,"Kapashera, Delhi",1000.0,Ready to move,3 BathroomsResale North facing,14,3,Resale, Apartment,3,"Kapashera,",Delhi,52.0
+3 BHK Apartment, 50 L,"Kapashera, Delhi",1000.0,Ready to move,3 BathroomsResale East facing,14,3,Resale, Apartment,3,"Kapashera,",Delhi,50.0
+1 BHK Apartment, 30 L,"Sector 28 Rohini, Delhi",600.0,Ready to move,2 - 3 years old1 BathroomsResale ,14,1,Resale, Apartment,1,"Sector 28 Rohini,",Delhi,30.0
+2 BHK Apartment, 65 L,"Sector 28 Rohini, Delhi",1000.0,Ready to move,2 - 3 years old2 BathroomsNew ,14,2,New, Apartment,2,"Sector 28 Rohini,",Delhi,65.0
+2 BHK Independent Floor, 54 L,"Sector 22 Rohini, Delhi",750.0,Ready to move,4 - 5 years old2 BathroomsNew ,14,2,New, Independent Floor,2,"Sector 22 Rohini,",Delhi,54.0
+4 BHK Independent Floor, 1.05 Cr,"Sector 22 Rohini, Delhi",1056.0,Ready to move,4 - 5 years old3 BathroomsNew ,15,3,New, Independent Floor,4,"Sector 22 Rohini,",Delhi,105.0
+3 BHK Independent Floor, 90 L,"Sector 22 Rohini, Delhi",1100.0,Ready to move,4 - 5 years old3 BathroomsNew ,15,3,New, Independent Floor,3,"Sector 22 Rohini,",Delhi,90.0
+4 BHK Independent Floor, 2.25 Cr,"Sector 22 Rohini, Delhi",2300.0,Ready to move,4 - 5 years old4 BathroomsNew ,15,4,New, Independent Floor,4,"Sector 22 Rohini,",Delhi,225.0
+2 BHK Independent Floor, 42 L,"Sector 22 Rohini, Delhi",550.0,Ready to move,4 - 5 years old2 BathroomsNew ,15,2,New, Independent Floor,2,"Sector 22 Rohini,",Delhi,42.0
+3 BHK Apartment, 1.35 Cr,"Sector 2 Dwarka, Delhi",1580.0,Ready to move,16 - 17 years old2 BathroomsResale ,15,2,Resale, Apartment,3,"Sector 2 Dwarka,",Delhi,135.0
+2 BHK Apartment, 82 L,"Sector 6 Dwarka, Delhi",1000.0,Ready to move,5 - 6 years old2 BathroomsResale ,15,2,Resale, Apartment,2,"Sector 6 Dwarka,",Delhi,82.0
+3 BHK Independent Floor, 90 L,"Ashok Vihar, Delhi",900.0,Under Construction,2 BathroomsNew SouthWest facing,15,2,New, Independent Floor,3,"Ashok Vihar,",Delhi,90.0
+3 BHK Apartment, 1.65 Cr,"Sector 11 Dwarka, Delhi",1600.0,Ready to move,3 BathroomsResale NorthEast facing,15,3,Resale, Apartment,3,"Sector 11 Dwarka,",Delhi,165.0
+2 BHK Apartment, 1.28 Cr,"Sector 4 Dwarka, Delhi",1200.0,Ready to move,2 BathroomsResale NorthEast facing,15,2,Resale, Apartment,2,"Sector 4 Dwarka,",Delhi,128.0
+3 BHK Apartment, 1.3 Cr,"Sector 6 Dwarka, Delhi",1570.0,Ready to move,5 - 6 years old2 BathroomsResale ,15,2,Resale, Apartment,3,"Sector 6 Dwarka,",Delhi,130.0
+3 BHK Independent Floor, 1.85 Cr,"Paschim Vihar, Delhi",1783.0,Ready to move,3 BathroomsResale North facing,15,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,185.0
+4 BHK Apartment, 5.1 Cr,"Model Town, Delhi",3450.0,Ready to move,5 BathroomsResale South facing,15,5,Resale, Apartment,4,"Model Town,",Delhi,509.99999999999994
+2 BHK Independent Floor, 19 L,"Dwarka Mor, Delhi",650.0,Ready to move,4 - 5 years old2 BathroomsResale ,15,2,Resale, Independent Floor,2,"Dwarka Mor,",Delhi,19.0
+4 BHK Independent Floor, 3.6 Cr,"Gujranwala Town, Delhi",1908.0,Ready to move,4 BathroomsResale ,15,4,Resale, Independent Floor,4,"Gujranwala Town,",Delhi,360.0
+2 BHK Independent Floor, 31.5 L,"Dwarka Mor, Delhi",600.0,Ready to move,4 - 5 years old2 BathroomsNew ,15,2,New, Independent Floor,2,"Dwarka Mor,",Delhi,31.5
+2 BHK Independent Floor, 32 L,"Sewak Park, Delhi",600.0,Ready to move,2 BathroomsNew ,15,2,New, Independent Floor,2,"Sewak Park,",Delhi,32.0
+3 BHK Independent Floor, 2.5 Cr,"Paschim Vihar, Delhi",1790.0,Ready to move,3 BathroomsNew NorthEast facing,15,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,250.0
+3 BHK Apartment, 1.25 Cr,"Paschim Vihar, Delhi",1100.0,Ready to move,2 BathroomsResale East facing,15,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,125.0
+3 BHK Apartment, 1.25 Cr,"Paschim Vihar, Delhi",1100.0,Ready to move,2 BathroomsResale East facing,15,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,125.0
+3 BHK Independent Floor, 1.75 Cr,"Paschim Vihar, Delhi",1200.0,Ready to move,3 BathroomsResale NorthEast facing,15,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,175.0
+3 BHK Independent Floor, 1.75 Cr,"Paschim Vihar, Delhi",1200.0,Under Construction,3 BathroomsNew North facing,16,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,175.0
+3 BHK Independent Floor, 2.8 Cr,"Paschim Vihar, Delhi",1790.0,Ready to move,3 BathroomsResale North facing,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,280.0
+3 BHK Independent Floor, 2.5 Cr,"Paschim Vihar, Delhi",1790.0,Ready to move,3 BathroomsResale ,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,250.0
+3 BHK Independent Floor, 2.5 Cr,"Paschim Vihar, Delhi",1790.0,Ready to move,3 BathroomsResale SouthEast facing,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,250.0
+3 BHK Apartment, 1.1 Cr,"Paschim Vihar, Delhi",1120.0,Ready to move,2 BathroomsResale East facing,16,2,Resale, Apartment,3,"Paschim Vihar,",Delhi,110.00000000000001
+2 BHK Apartment, 61 L,"Paschim Vihar, Delhi",850.0,Ready to move,1 - 2 years old1 BathroomsResale ,16,1,Resale, Apartment,2,"Paschim Vihar,",Delhi,61.0
+2 BHK Apartment, 1.1 Cr,"Paschim Vihar, Delhi",1050.0,Ready to move,2 BathroomsResale NorthEast facing,16,2,Resale, Apartment,2,"Paschim Vihar,",Delhi,110.00000000000001
+2 BHK Apartment, 60 L,"Paschim Vihar, Delhi",850.0,Ready to move,1 BathroomsResale North facing,16,1,Resale, Apartment,2,"Paschim Vihar,",Delhi,60.0
+3 BHK Independent Floor, 2.4 Cr,"Paschim Vihar, Delhi",1750.0,Ready to move,3 BathroomsResale North facing,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,240.0
+3 BHK Independent Floor, 2.5 Cr,"Paschim Vihar, Delhi",1750.0,Ready to move,3 BathroomsResale North facing,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,250.0
+3 BHK Independent Floor, 4.1 Cr,"Lajpat Nagar, Delhi",1800.0,Ready to move,5 years old3 BathroomsResale ,16,3,Resale, Independent Floor,3,"Lajpat Nagar,",Delhi,409.99999999999994
+3 BHK Independent Floor, 1.7 Cr,"Paschim Vihar, Delhi",1200.0,Ready to move,3 BathroomsResale East facing,16,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,170.0
+1 BHK Independent Floor, 45 L,"Sector 3 Rohini, Delhi",500.0,Ready to move,3 - 4 years old1 BathroomsNew ,16,1,New, Independent Floor,1,"Sector 3 Rohini,",Delhi,45.0
+3 BHK Independent Floor, 10.5 Cr,"Defence Colony, Delhi",2900.0,Ready to move,4 BathroomsNew North facing,16,4,New, Independent Floor,3,"Defence Colony,",Delhi,1050.0
+3 BHK Independent Floor, 4 Cr,"Safdarjung Development Area, Delhi",1800.0,Ready to move,3 BathroomsResale East facing,17,3,Resale, Independent Floor,3,"Safdarjung Development Area,",Delhi,400.0
+4 BHK Independent Floor, 80 L,"Rohini sector 24, Delhi",1200.0,Under Construction,3 BathroomsNew NorthEast facing,17,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,80.0
+3 BHK Apartment, 1.55 Cr,"Sector 13 Dwarka, Delhi",1850.0,Ready to move,2 BathroomsResale NorthEast facing,17,2,Resale, Apartment,3,"Sector 13 Dwarka,",Delhi,155.0
+4 BHK Apartment, 2.5 Cr,"Sector 11 Dwarka, Delhi",2200.0,Ready to move,3 BathroomsResale North facing,17,3,Resale, Apartment,4,"Sector 11 Dwarka,",Delhi,250.0
+4 BHK Apartment, 3.3 Cr,"Sector 19 Dwarka, Delhi",3450.0,Ready to move,16 years old4 BathroomsResale ,17,4,Resale, Apartment,4,"Sector 19 Dwarka,",Delhi,330.0
+3 BHK Independent Floor, 50 L,"Suraj Vihar, Delhi",1188.0,Ready to move,3 BathroomsResale ,17,3,Resale, Independent Floor,3,"Suraj Vihar,",Delhi,50.0
+3 BHK Independent Floor, 1.4 Cr,"Ashok Vihar, Delhi",1260.0,Under Construction,3 BathroomsNew SouthEast facing,17,3,New, Independent Floor,3,"Ashok Vihar,",Delhi,140.0
+4 BHK Independent Floor, 1.9 Cr,"Ashok Vihar, Delhi",1800.0,Ready to move,6 BathroomsResale North facing,17,6,Resale, Independent Floor,4,"Ashok Vihar,",Delhi,190.0
+3 BHK Independent Floor, 95 L,"Ashok Vihar, Delhi",945.0,Under Construction,2 BathroomsNew NorthWest facing,17,2,New, Independent Floor,3,"Ashok Vihar,",Delhi,95.0
+3 BHK Independent Floor, 2.5 Cr,"Ashok Vihar, Delhi",1800.0,Ready to move,3 BathroomsResale ,17,3,Resale, Independent Floor,3,"Ashok Vihar,",Delhi,250.0
+2 BHK Independent Floor, 2.1 Cr,"Ashok Vihar, Delhi",1350.0,Ready to move,3 BathroomsResale SouthWest facing,18,3,Resale, Independent Floor,2,"Ashok Vihar,",Delhi,210.0
+3 BHK Independent Floor, 1.1 Cr,"Ashok Vihar, Delhi",900.0,Under Construction,2 BathroomsNew ,18,2,New, Independent Floor,3,"Ashok Vihar,",Delhi,110.00000000000001
+3 BHK Independent Floor, 90 L,"Ashok Vihar, Delhi",945.0,Ready to move,2 BathroomsNew North facing,18,2,New, Independent Floor,3,"Ashok Vihar,",Delhi,90.0
+4 BHK Independent Floor, 6 Cr,"Ashok Vihar, Delhi",3060.0,Ready to move,4 BathroomsResale NorthEast facing,18,4,Resale, Independent Floor,4,"Ashok Vihar,",Delhi,600.0
+3 BHK Independent Floor, 3.5 Cr,"Ashok Vihar, Delhi",1800.0,Under Construction,3 BathroomsNew North facing,18,3,New, Independent Floor,3,"Ashok Vihar,",Delhi,350.0
+3 BHK Independent Floor, 2.5 Cr,"Ashok Vihar, Delhi",1620.0,Ready to move,3 BathroomsResale SouthEast facing,18,3,Resale, Independent Floor,3,"Ashok Vihar,",Delhi,250.0
+3 BHK Independent Floor, 89 L,"Ashok Vihar, Delhi",945.0,Ready to move,2 BathroomsNew North facing,18,2,New, Independent Floor,3,"Ashok Vihar,",Delhi,89.0
+3 BHK Independent Floor, 2.5 Cr,"Ashok Vihar, Delhi",1700.0,Under Construction,3 BathroomsNew West facing,18,3,New, Independent Floor,3,"Ashok Vihar,",Delhi,250.0
+3 BHK Independent Floor, 3.65 Cr,"Ashok Vihar, Delhi",1800.0,Under Construction,3 BathroomsNew North facing,18,3,New, Independent Floor,3,"Ashok Vihar,",Delhi,365.0
+3 BHK Apartment, 2.9 Cr,"Vasant Kunj, Delhi",1900.0,Ready to move,2 BathroomsResale South facing,18,2,Resale, Apartment,3,"Vasant Kunj,",Delhi,290.0
+4 BHK Apartment, 3 Cr,"Vasant Kunj, Delhi",2400.0,Ready to move,3 BathroomsResale South facing,18,3,Resale, Apartment,4,"Vasant Kunj,",Delhi,300.0
+3 BHK Apartment, 3 Cr,"Vasant Kunj, Delhi",2000.0,Ready to move,2 BathroomsResale South facing,18,2,Resale, Apartment,3,"Vasant Kunj,",Delhi,300.0
+4 BHK Apartment, 2.25 Cr,"Vasant Kunj, Delhi",2200.0,Ready to move,3 BathroomsResale NorthEast facing,18,3,Resale, Apartment,4,"Vasant Kunj,",Delhi,225.0
+3 BHK Apartment, 1.6 Cr,"Sector 19 Dwarka, Delhi",2200.0,Ready to move,6 - 7 years old3 BathroomsResale ,18,3,Resale, Apartment,3,"Sector 19 Dwarka,",Delhi,160.0
+2 BHK Independent Floor, 22 L,"Sector 21 Rohini, Delhi",500.0,Ready to move,2 - 3 years old2 BathroomsResale ,18,2,Resale, Independent Floor,2,"Sector 21 Rohini,",Delhi,22.0
+2 BHK Independent Floor, 24.5 L,"Sector 21 Rohini, Delhi",500.0,Ready to move,2 - 3 years old2 BathroomsNew ,18,2,New, Independent Floor,2,"Sector 21 Rohini,",Delhi,24.5
+2 BHK Independent Floor, 40 L,"Sector 21 Rohini, Delhi",720.0,Ready to move,2 - 3 years old2 BathroomsResale ,18,2,Resale, Independent Floor,2,"Sector 21 Rohini,",Delhi,40.0
+3 BHK Independent Floor, 1.25 Cr,"East of Kailash, Delhi",1143.0,Ready to move,2 BathroomsResale East facing,18,2,Resale, Independent Floor,3,"East of Kailash,",Delhi,125.0
+4 BHK Independent Floor, 2.21 Cr,"Punjabi Bagh, Delhi",2300.0,Ready to move,3 BathroomsResale ,18,3,Resale, Independent Floor,4,"Punjabi Bagh,",Delhi,221.0
+3 BHK Independent Floor, 1.3 Cr,"Paschim Vihar, Delhi",901.0,Ready to move,3 BathroomsNew NorthEast facing,19,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,130.0
+5 BHK Independent Floor, 13 Cr,"Rajinder Nagar, Delhi",6075.0,Ready to move,5 BathroomsNew ,19,5,New, Independent Floor,5,"Rajinder Nagar,",Delhi,1300.0
+3 BHK Independent Floor, 60 L,"Rohini sector 24, Delhi",1000.0,Under Construction,2 BathroomsNew ,19,2,New, Independent Floor,3,"Rohini sector 24,",Delhi,60.0
+2 BHK Independent Floor, 20 L,"Rohini sector 24, Delhi",500.0,Ready to move,2 BathroomsNew West facing,19,2,New, Independent Floor,2,"Rohini sector 24,",Delhi,20.0
+2 BHK Independent Floor, 15 L,"Budh Vihar, Delhi",500.0,Under Construction,1 BathroomsNew North facing,19,1,New, Independent Floor,2,"Budh Vihar,",Delhi,15.0
+3 BHK Independent Floor, 18 L,"Budh Vihar, Delhi",600.0,Under Construction,2 BathroomsNew SouthWest facing,19,2,New, Independent Floor,3,"Budh Vihar,",Delhi,18.0
+2 BHK Independent Floor, 19 L,"Rohini sector 24, Delhi",525.0,Ready to move,1 BathroomsNew West facing,19,1,New, Independent Floor,2,"Rohini sector 24,",Delhi,19.0
+3 BHK Independent Floor, 50 L,"Rohini sector 24, Delhi",1000.0,Ready to move,2 BathroomsNew ,19,2,New, Independent Floor,3,"Rohini sector 24,",Delhi,50.0
+2 BHK Independent Floor, 18 L,"Rohini sector 24, Delhi",525.0,Ready to move,1 BathroomsNew West facing,19,1,New, Independent Floor,2,"Rohini sector 24,",Delhi,18.0
+2 BHK Independent Floor, 20 L,"Rohini sector 24, Delhi",525.0,Ready to move,1 BathroomsNew West facing,19,1,New, Independent Floor,2,"Rohini sector 24,",Delhi,20.0
+3 BHK Independent Floor, 48 L,"Rohini sector 24, Delhi",1000.0,Ready to move,2 BathroomsNew East facing,19,2,New, Independent Floor,3,"Rohini sector 24,",Delhi,48.0
+4 BHK Apartment, 1.9 Cr,"Sector 12 Dwarka, Delhi",2200.0,Ready to move,4 BathroomsResale NorthEast facing,19,4,Resale, Apartment,4,"Sector 12 Dwarka,",Delhi,190.0
+3 BHK Apartment, 1.56 Cr,"Sector 12 Dwarka, Delhi",1600.0,Ready to move,3 BathroomsResale NorthEast facing,19,3,Resale, Apartment,3,"Sector 12 Dwarka,",Delhi,156.0
+2 BHK Independent Floor, 45 L,"Sector 21 Rohini, Delhi",800.0,Ready to move,2 - 3 years old2 BathroomsNew ,19,2,New, Independent Floor,2,"Sector 21 Rohini,",Delhi,45.0
+3 BHK Apartment, 2.5 Cr,"Sector 10 Dwarka, Delhi",2000.0,Ready to move,5 - 6 years old3 BathroomsResale ,19,3,Resale, Apartment,3,"Sector 10 Dwarka,",Delhi,250.0
+4 BHK Independent Floor, 4.65 Cr,"Paschim Vihar, Delhi",2700.0,Ready to move,4 BathroomsResale ,19,4,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,465.00000000000006
+3 BHK Apartment, 2.5 Cr,"Vasant Kunj, Delhi",1600.0,Ready to move,2 BathroomsResale West facing,19,2,Resale, Apartment,3,"Vasant Kunj,",Delhi,250.0
+2 BHK Apartment, 83 L,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsResale NorthWest facing,19,2,Resale, Apartment,2,"Paschim Vihar,",Delhi,83.0
+2 BHK Independent Floor, 1.15 Cr,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsNew East facing,19,2,New, Independent Floor,2,"Paschim Vihar,",Delhi,114.99999999999999
+1 BHK Apartment, 80 L,"Vasant Kunj, Delhi",581.0,Ready to move,2 BathroomsResale East facing,20,2,Resale, Apartment,1,"Vasant Kunj,",Delhi,80.0
+3 BHK Apartment, 2.5 Cr,"Vasant Kunj, Delhi",1600.0,Ready to move,2 BathroomsResale West facing,20,2,Resale, Apartment,3,"Vasant Kunj,",Delhi,250.0
+3 BHK Independent House, 7.5 Cr,"Paschim Vihar, Delhi",1800.0,Ready to move,3 BathroomsResale SouthEast facing,20,3,Resale, Independent House,3,"Paschim Vihar,",Delhi,750.0
+2 BHK Apartment, 83 L,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsResale NorthWest facing,20,2,Resale, Apartment,2,"Paschim Vihar,",Delhi,83.0
+2 BHK Independent Floor, 1.15 Cr,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsNew East facing,20,2,New, Independent Floor,2,"Paschim Vihar,",Delhi,114.99999999999999
+4 BHK Independent Floor, 4.65 Cr,"Paschim Vihar, Delhi",2700.0,Ready to move,4 BathroomsResale ,20,4,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,465.00000000000006
+2 BHK Independent Floor, 1.05 Cr,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsNew NorthWest facing,20,2,New, Independent Floor,2,"Paschim Vihar,",Delhi,105.0
+4 BHK Independent Floor, 4.75 Cr,"Paschim Vihar, Delhi",2700.0,Ready to move,3 BathroomsNew East facing,20,3,New, Independent Floor,4,"Paschim Vihar,",Delhi,475.0
+3 BHK Independent Floor, 1.85 Cr,"Paschim Vihar, Delhi",1200.0,Ready to move,3 BathroomsNew East facing,20,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,185.0
+4 BHK Independent Floor, 3.25 Cr,"Paschim Vihar, Delhi",1800.0,Ready to move,4 BathroomsNew East facing,20,4,New, Independent Floor,4,"Paschim Vihar,",Delhi,325.0
+4 BHK Independent Floor, 2.85 Cr,"Paschim Vihar, Delhi",1800.0,Ready to move,4 BathroomsNew West facing,20,4,New, Independent Floor,4,"Paschim Vihar,",Delhi,285.0
+4 BHK Independent Floor, 4.75 Cr,"Paschim Vihar, Delhi",2700.0,Ready to move,4 BathroomsResale East facing,20,4,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,475.0
+4 BHK Independent Floor, 4 Cr,"Paschim Vihar, Delhi",2700.0,Ready to move,4 BathroomsResale NorthEast facing,20,4,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,400.0
+4 BHK Independent Floor, 3.55 Cr,"Paschim Vihar, Delhi",1800.0,Ready to move,4 BathroomsResale East facing,20,4,Resale, Independent Floor,4,"Paschim Vihar,",Delhi,355.0
+2 BHK Apartment, 41 L,"Chattarpur, Delhi",765.0,Ready to move,2 BathroomsResale South facing,20,2,Resale, Apartment,2,"Chattarpur,",Delhi,41.0
+1 BHK Independent Floor, 23 L,"Maidan Garhi, Delhi",450.0,Ready to move,1 BathroomsResale NorthEast facing,20,1,Resale, Independent Floor,1,"Maidan Garhi,",Delhi,23.0
+3 BHK Independent Floor, 70 L,"Sector 25 Rohini, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsNew ,20,2,New, Independent Floor,3,"Sector 25 Rohini,",Delhi,70.0
+3 BHK Independent Floor, 73 L,"Sector 25 Rohini, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsNew ,20,2,New, Independent Floor,3,"Sector 25 Rohini,",Delhi,73.0
+3 BHK Independent Floor, 76 L,"Sector 25 Rohini, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsNew ,20,2,New, Independent Floor,3,"Sector 25 Rohini,",Delhi,76.0
+3 BHK Independent Floor, 78 L,"Sector 25 Rohini, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsNew ,20,2,New, Independent Floor,3,"Sector 25 Rohini,",Delhi,78.0
+3 BHK Independent Floor, 80 L,"Sector 25 Rohini, Delhi",800.0,Ready to move,4 - 5 years old2 BathroomsNew ,21,2,New, Independent Floor,3,"Sector 25 Rohini,",Delhi,80.0
+2 BHK Independent Floor, 55 L,"Rohini sector 24, Delhi",700.0,Ready to move,2 BathroomsNew ,21,2,New, Independent Floor,2,"Rohini sector 24,",Delhi,55.0
+2 BHK Independent Floor, 52 L,"Sector 28 Rohini, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Sector 28 Rohini,",Delhi,52.0
+2 BHK Independent Floor, 42 L,"Khera Khurd, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Khera Khurd,",Delhi,42.0
+2 BHK Independent Floor, 57 L,"Rohini sector 24, Delhi",700.0,Ready to move,2 BathroomsNew ,21,2,New, Independent Floor,2,"Rohini sector 24,",Delhi,57.0
+2 BHK Independent Floor, 55 L,"Sector 21 Rohini, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Sector 21 Rohini,",Delhi,55.0
+2 BHK Independent Floor, 42 L,"Sector 28 Rohini, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Sector 28 Rohini,",Delhi,42.0
+2 BHK Independent Floor, 68 L,"Sector 21 Rohini, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Sector 21 Rohini,",Delhi,68.0
+2 BHK Independent Floor, 70 L,"Sector 21 Rohini, Delhi",700.0,Ready to move,2 - 3 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"Sector 21 Rohini,",Delhi,70.0
+2 BHK Independent Floor, 60 L,"Rohini sector 24, Delhi",700.0,Ready to move,2 BathroomsNew ,21,2,New, Independent Floor,2,"Rohini sector 24,",Delhi,60.0
+4 BHK Independent Floor, 1.2 Cr,"Sector 28 Rohini, Delhi",1450.0,Ready to move,2 - 3 years old3 BathroomsNew ,21,3,New, Independent Floor,4,"Sector 28 Rohini,",Delhi,120.0
+4 BHK Independent Floor, 2.15 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,215.0
+4 BHK Independent Floor, 2.25 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,225.0
+4 BHK Independent Floor, 1.6 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,160.0
+4 BHK Independent Floor, 1.5 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,150.0
+4 BHK Independent Floor, 1.55 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,155.0
+4 BHK Independent Floor, 1.7 Cr,"Rohini sector 24, Delhi",1450.0,Ready to move,3 BathroomsNew ,21,3,New, Independent Floor,4,"Rohini sector 24,",Delhi,170.0
+4 BHK Apartment, 2 Cr,"Sector 13 Dwarka, Delhi",2300.0,Ready to move,3 BathroomsResale NorthEast facing,21,3,Resale, Apartment,4,"Sector 13 Dwarka,",Delhi,200.0
+1 BHK Independent Floor, 25 L,"Sector 3 Rohini, Delhi",350.0,Ready to move,3 - 4 years old1 BathroomsNew ,21,1,New, Independent Floor,1,"Sector 3 Rohini,",Delhi,25.0
+2 BHK Independent Floor, 72 L,"rohini sector 5, Delhi",650.0,Ready to move,5 - 6 years old2 BathroomsNew ,21,2,New, Independent Floor,2,"rohini sector 5,",Delhi,72.0
+2 BHK Independent Floor, 72 L,"rohini sector 5, Delhi",650.0,Ready to move,5 - 6 years old2 BathroomsNew ,22,2,New, Independent Floor,2,"rohini sector 5,",Delhi,72.0
+3 BHK Independent Floor, 75 L,"Sector 3 Rohini, Delhi",700.0,Ready to move,3 - 4 years old2 BathroomsResale ,22,2,Resale, Independent Floor,3,"Sector 3 Rohini,",Delhi,75.0
+1 BHK Independent Floor, 38 L,"Sector 3 Rohini, Delhi",400.0,Ready to move,3 - 4 years old2 BathroomsResale ,22,2,Resale, Independent Floor,1,"Sector 3 Rohini,",Delhi,38.0
+3 BHK Independent Floor, 95 L,"Sector 22 Rohini, Delhi",1120.0,Under Construction,3 BathroomsNew ,22,3,New, Independent Floor,3,"Sector 22 Rohini,",Delhi,95.0
+2 BHK Apartment, 28 L,"Aya Nagar, Delhi",750.0,Ready to move,4 - 5 years old2 BathroomsResale ,22,2,Resale, Apartment,2,"Aya Nagar,",Delhi,28.0
+2 BHK Independent Floor, 32 L,"Mahavir Enclave, Delhi",510.0,Ready to move,2 BathroomsResale ,22,2,Resale, Independent Floor,2,"Mahavir Enclave,",Delhi,32.0
+6 BHK Villa, 4.3 Cr,"Shalimar Bagh, Delhi",3500.0,Ready to move,6 BathroomsResale ,22,6,Resale, Villa,6,"Shalimar Bagh,",Delhi,430.0
+3 BHK Independent Floor, 3.75 Cr,"Karol Bagh, Delhi",1550.0,Ready to move,3 BathroomsNew ,22,3,New, Independent Floor,3,"Karol Bagh,",Delhi,375.0
+4 BHK Independent Floor, 4 Cr,"Karol Bagh, Delhi",2800.0,Ready to move,4 BathroomsNew ,22,4,New, Independent Floor,4,"Karol Bagh,",Delhi,400.0
+3 BHK Independent Floor, 65 L,"Tilak Nagar, Delhi",1000.0,Ready to move,5 - 6 years old3 BathroomsResale ,22,3,Resale, Independent Floor,3,"Tilak Nagar,",Delhi,65.0
+3 BHK Independent Floor, 1.1 Cr,"Rohini sector 16, Delhi",800.0,Ready to move,1 BathroomsResale ,22,1,Resale, Independent Floor,3,"Rohini sector 16,",Delhi,110.00000000000001
+2 BHK Independent Floor, 50 L,"Sector 11 Rohini, Delhi",650.0,Ready to move,3 - 4 years old1 BathroomsResale ,22,1,Resale, Independent Floor,2,"Sector 11 Rohini,",Delhi,50.0
+3 BHK Independent Floor, 1.3 Cr,"Sector 11 Rohini, Delhi",900.0,Ready to move,3 - 4 years old2 BathroomsResale ,22,2,Resale, Independent Floor,3,"Sector 11 Rohini,",Delhi,130.0
+3 BHK Independent Floor, 1.6 Cr,"Sector 11 Rohini, Delhi",1100.0,Ready to move,3 - 4 years old1 BathroomsResale ,22,1,Resale, Independent Floor,3,"Sector 11 Rohini,",Delhi,160.0
+3 BHK Independent Floor, 1.1 Cr,"Rohini sector 16, Delhi",1100.0,Ready to move,1 BathroomsResale ,22,1,Resale, Independent Floor,3,"Rohini sector 16,",Delhi,110.00000000000001
+3 BHK Independent Floor, 1.65 Cr,"Rohini sector 16, Delhi",1100.0,Ready to move,2 BathroomsResale ,22,2,Resale, Independent Floor,3,"Rohini sector 16,",Delhi,165.0
+2 BHK Independent Floor, 85 L,"Rohini sector 16, Delhi",750.0,Ready to move,1 BathroomsResale ,22,1,Resale, Independent Floor,2,"Rohini sector 16,",Delhi,85.0
+2 BHK Independent Floor, 90 L,"Rohini sector 16, Delhi",750.0,Ready to move,1 BathroomsResale ,22,1,Resale, Independent Floor,2,"Rohini sector 16,",Delhi,90.0
+3 BHK Apartment, 1.6 Cr,"Sector 6 Dwarka, Delhi",1850.0,Ready to move,3 BathroomsResale NorthEast facing,22,3,Resale, Apartment,3,"Sector 6 Dwarka,",Delhi,160.0
+4 BHK Independent Floor, 4 Cr,"Karol Bagh, Delhi",2800.0,Ready to move,4 BathroomsNew ,23,4,New, Independent Floor,4,"Karol Bagh,",Delhi,400.0
+4 BHK Independent Floor, 3.8 Cr,"Karol Bagh, Delhi",2080.0,Ready to move,4 BathroomsNew ,23,4,New, Independent Floor,4,"Karol Bagh,",Delhi,380.0
+3 BHK Independent Floor, 4.5 Cr,"Safdarjung Development Area, Delhi",1800.0,Ready to move,4 BathroomsResale East facing,23,4,Resale, Independent Floor,3,"Safdarjung Development Area,",Delhi,450.0
+2 BHK Independent Floor, 1 Cr,"Paschim Vihar, Delhi",756.0,Ready to move,2 BathroomsNew NorthEast facing,23,2,New, Independent Floor,2,"Paschim Vihar,",Delhi,100.0
+3 BHK Independent Floor, 1.4 Cr,"Paschim Vihar, Delhi",1197.0,Ready to move,3 BathroomsResale NorthEast facing,23,3,Resale, Independent Floor,3,"Paschim Vihar,",Delhi,140.0
+3 BHK Independent Floor, 2.4 Cr,"Ashok Vihar, Delhi",1710.0,Ready to move,3 BathroomsResale SouthWest facing,23,3,Resale, Independent Floor,3,"Ashok Vihar,",Delhi,240.0
+3 BHK Independent Floor, 3.75 Cr,"Karol Bagh, Delhi",1550.0,Ready to move,3 BathroomsNew ,23,3,New, Independent Floor,3,"Karol Bagh,",Delhi,375.0
+3 BHK Independent Floor, 1.3 Cr,"Paschim Vihar, Delhi",900.0,Ready to move,3 BathroomsNew NorthEast facing,23,3,New, Independent Floor,3,"Paschim Vihar,",Delhi,130.0
+4 BHK Independent Floor, 1.9 Cr,"Karol Bagh, Delhi",2500.0,Ready to move,3 BathroomsNew ,23,3,New, Independent Floor,4,"Karol Bagh,",Delhi,190.0
+3 BHK Independent Floor, 2.35 Cr,"Rajinder Nagar, Delhi",1090.0,Ready to move,3 BathroomsNew ,23,3,New, Independent Floor,3,"Rajinder Nagar,",Delhi,235.0
+4 BHK Independent Floor, 4 Cr,"Karol Bagh, Delhi",3000.0,Ready to move,3 BathroomsNew ,23,3,New, Independent Floor,4,"Karol Bagh,",Delhi,400.0
+4 BHK Independent Floor, 4.25 Cr,"Karol Bagh, Delhi",1750.0,Ready to move,3 BathroomsNew ,23,3,New, Independent Floor,4,"Karol Bagh,",Delhi,425.0
+2 BHK Apartment, 1.17 Cr,"Sector 4 Dwarka, Delhi",1200.0,Ready to move,2 BathroomsResale NorthEast facing,23,2,Resale, Apartment,2,"Sector 4 Dwarka,",Delhi,117.0
+2 BHK Apartment, 1.25 Cr,"Sector 10 Dwarka, Delhi",1250.0,Ready to move,2 BathroomsResale NorthEast facing,23,2,Resale, Apartment,2,"Sector 10 Dwarka,",Delhi,125.0
+2 BHK Apartment, 1.24 Cr,"Sector 6 Dwarka, Delhi",1250.0,Ready to move,1 - 2 years old2 BathroomsResale ,23,2,Resale, Apartment,2,"Sector 6 Dwarka,",Delhi,124.0
+3 BHK Apartment, 1.75 Cr,"Sector 4 Dwarka, Delhi",1900.0,Ready to move,14 - 15 years old2 BathroomsResale ,23,2,Resale, Apartment,3,"Sector 4 Dwarka,",Delhi,175.0
+2 BHK Independent Floor, 35 L,"Rohini sector 24, Delhi",600.0,Ready to move,2 BathroomsResale NorthEast facing,23,2,Resale, Independent Floor,2,"Rohini sector 24,",Delhi,35.0
+2 BHK Independent Floor, 58 L,"Rohini sector 24, Delhi",700.0,Ready to move,1 BathroomsNew NorthEast facing,23,1,New, Independent Floor,2,"Rohini sector 24,",Delhi,58.0
+3 BHK Independent Floor, 80 L,"Rohini sector 24, Delhi",950.0,Ready to move,1 BathroomsNew NorthEast facing,23,1,New, Independent Floor,3,"Rohini sector 24,",Delhi,80.0
+4 BHK Apartment, 3 Cr,"Sector 3 Dwarka, Delhi",2800.0,Ready to move,4 BathroomsResale NorthEast facing,24,4,Resale, Apartment,4,"Sector 3 Dwarka,",Delhi,300.0
+3 BHK Apartment, 1.44 Cr,"Sector 22 Dwarka, Delhi",1600.0,Ready to move,2 BathroomsResale NorthEast facing,24,2,Resale, Apartment,3,"Sector 22 Dwarka,",Delhi,144.0
+4 BHK Apartment, 1.7 Cr,"Sector 2 Dwarka, Delhi",2200.0,Ready to move,4 BathroomsResale NorthEast facing,24,4,Resale, Apartment,4,"Sector 2 Dwarka,",Delhi,170.0
+3 BHK Apartment, 1.54 Cr,"Chhawla, Delhi",2100.0,Ready to move,2 BathroomsResale West facing,24,2,Resale, Apartment,3,"Chhawla,",Delhi,154.0
+2 BHK Independent Floor, 30 L,"Dwarka Mor, Delhi",625.0,Ready to move,4 - 5 years old2 BathroomsNew ,24,2,New, Independent Floor,2,"Dwarka Mor,",Delhi,30.0
+3 BHK Independent Floor, 40 L,"Dwarka Mor, Delhi",810.0,Ready to move,4 - 5 years old2 BathroomsNew ,24,2,New, Independent Floor,3,"Dwarka Mor,",Delhi,40.0
+3 BHK Independent Floor, 45 L,"Dwarka Mor, Delhi",950.0,Ready to move,4 - 5 years old2 BathroomsNew ,24,2,New, Independent Floor,3,"Dwarka Mor,",Delhi,45.0
+3 BHK Independent Floor, 34 L,"Dwarka Mor, Delhi",855.0,Ready to move,4 - 5 years old2 BathroomsNew ,24,2,New, Independent Floor,3,"Dwarka Mor,",Delhi,34.0
+1 BHK Independent Floor, 32 L,"Rohini sector 24, Delhi",400.0,Ready to move,1 BathroomsResale ,24,1,Resale, Independent Floor,1,"Rohini sector 24,",Delhi,32.0
+2 BHK Independent Floor, 45 L,"Rohini sector 24, Delhi",750.0,Ready to move,2 BathroomsResale NorthEast facing,24,2,Resale, Independent Floor,2,"Rohini sector 24,",Delhi,45.0
+2 BHK Independent Floor, 35 L,"Rohini sector 24, Delhi",600.0,Ready to move,2 BathroomsResale NorthEast facing,24,2,Resale, Independent Floor,2,"Rohini sector 24,",Delhi,35.0
+2 BHK Independent Floor, 32 L,"Rohini sector 24, Delhi",500.0,Ready to move,2 BathroomsResale NorthEast facing,24,2,Resale, Independent Floor,2,"Rohini sector 24,",Delhi,32.0
+2 BHK Independent Floor, 85 L,"Lajpat Nagar, Delhi",900.0,Ready to move,5 years old2 BathroomsResale ,24,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,85.0
+2 BHK Independent Floor, 19.5 L,"Sainik Farm, Delhi",500.0,Ready to move,1 BathroomsResale North facing,24,1,Resale, Independent Floor,2,"Sainik Farm,",Delhi,19.5
+2 BHK Independent Floor, 40 L,"Vishnu Garden, Delhi",700.0,Ready to move,2 BathroomsResale ,24,2,Resale, Independent Floor,2,"Vishnu Garden,",Delhi,40.0
+3 BHK Independent Floor, 3.35 Cr,"East of Kailash, Delhi",1800.0,Ready to move,3 BathroomsResale North facing,24,3,Resale, Independent Floor,3,"East of Kailash,",Delhi,335.0
+2 BHK Independent Floor, 1 Cr,"Lajpat Nagar, Delhi",900.0,Ready to move,5 years old2 BathroomsResale ,24,2,Resale, Independent Floor,2,"Lajpat Nagar,",Delhi,100.0
+2 BHK Independent Floor, 90 L,"Malviya Nagar, Delhi",750.0,Ready to move,2 BathroomsNew East facing,24,2,New, Independent Floor,2,"Malviya Nagar,",Delhi,90.0
+4 BHK Independent Floor, 1.9 Cr,"Sector 23 Rohini, Delhi",2250.0,Ready to move,5 - 6 years old4 BathroomsNew ,24,4,New, Independent Floor,4,"Sector 23 Rohini,",Delhi,190.0
+4 BHK Independent Floor, 1.95 Cr,"Sector 23 Rohini, Delhi",2250.0,Ready to move,5 - 6 years old4 BathroomsNew ,24,4,New, Independent Floor,4,"Sector 23 Rohini,",Delhi,195.0
